@@ -1,0 +1,5 @@
+AZUL                -36.8     -59.9     146
+AEROPARQUE          -34.6     -58.4     6
+CATAMARCA           -28.6     -65.8     454
+CHILECITO           -29.2     -67.4     1250
+IGUAZU              -25.7     -54.5     270
